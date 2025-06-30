@@ -2,7 +2,7 @@
 
 Je suis étudiant dans le dev web & mobile.
 
-🔭 Actuellement, je travaille sur des projets liés à ma formation de dev Web & Mobile
+🔭 Actuellement, je travaille sur des projets liés à ma formation de dev Web & Mobile.
 🌱 En ce moment, j’apprends le JavaScript.
 💬 N’hésite pas à me contacter pour échanger ou collaborer !  
 ⚡ Fun fact : en dehors du code, je suis aussi fan de jeux vidéo et de gastronomie.
