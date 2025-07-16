@@ -1,6 +1,6 @@
 <div align = "center">
 
-# 👋 Salut, moi c’est Théo !
+# 👋 Yo, C'Théo !
 
 Je suis étudiant dans le dev web & mobile.
 
@@ -8,7 +8,6 @@ Actuellement, je travaille sur des projets liés à ma formation de dev Web & Mo
 
 En ce moment, j’apprends le JavaScript.
 
-⚡ Fun fact : en dehors du code, je suis aussi fan de jeux vidéo et de gastronomie.
 
 ---
 
