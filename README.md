@@ -1,6 +1,9 @@
 <div align = "center">
+<img width="1075" height="469" alt="Capture d’écran 2025-07-16 à 12 19 27" src="https://github.com/user-attachments/assets/b257fe3b-a7df-42d0-8f11-84ba156bb5d7" />
 
 # 👋 Yo, C'Théo !
+
+
 
 Je suis étudiant dans le dev web & mobile.
 
