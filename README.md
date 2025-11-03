@@ -4,13 +4,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Yo C'Théo !
 ![Statut](https://img.shields.io/badge/%F0%9F%93%9A-%C3%89tudiant%20en%20D%C3%A9veloppement%20Web-blue?style=for-the-badge)
 ![Stage](https://img.shields.io/badge/%F0%9F%9A%80-Recherche_Stage_6_mois_pour_janvier_2026-orange?style=for-the-badge)
-
-<h3 align="center">Je suis étudiant en développement Web & Web Mobile. Je m’initie à différents types de stacks pour comprendre toutes les facettes du métier. Je code, je teste, je corrige… et je recommence, toujours avec l’envie d’apprendre et de progresser. 🚀 </h3>
-
-Je n'avais jamais codé avant le 10/06/2025 ! 
-
-
-
 ---
 
 <details open>
